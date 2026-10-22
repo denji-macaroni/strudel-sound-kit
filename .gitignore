@@ -1,0 +1,34 @@
+# ─────────────────────────────────────────────
+#  Third-party samples (NOT redistributed)
+# ─────────────────────────────────────────────
+# CDR — "CAN I GET AN AMEN BREAK FREE SAMPLE PACK"
+# License: all rights reserved → kept local only.
+# Get it from Bandcamp (see README → Setup).
+# The folder itself stays tracked via .gitkeep so the path exists after cloning.
+samples/cdr-amen/*
+!samples/cdr-amen/.gitkeep
+ 
+# Downloaded archives (Bandcamp zips, etc.)
+*.zip
+*.rar
+*.7z
+ 
+# ─────────────────────────────────────────────
+#  Tooling
+node_modules/
+npm-debug.log*
+.npm/
+ 
+# Local audio renders / recordings of jams
+renders/
+*.wav.asd
+ 
+# ─────────────────────────────────────────────
+#  OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+ 

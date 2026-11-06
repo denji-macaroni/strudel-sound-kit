@@ -1,0 +1,86 @@
+{
+  "_base": "https://raw.githubusercontent.com/denji-macaroni/strudel-sound-kit/main/",
+  "cfr_bd": [
+    "samples/cfr-dirt/bd/41%20control%20freak%20studio%20-%20bad%20mic%20chunky%20kick%2027%20absolutely%20huge%20fukt.wav",
+    "samples/cfr-dirt/bd/42%20control%20freak%20studio%20-%20bad%20mic%20chunky%20kick%2028%20low%20rumble%20fukt.wav",
+    "samples/cfr-dirt/bd/43%20control%20freak%20studio%20-%20bad%20mic%20chunky%20kick%20fukt%20eq%20comp%20punch.wav",
+    "samples/cfr-dirt/bd/44%20control%20freak%20studio%20-%20bad%20mic%20kick%2030%20with%20breathing%20noise%20decay.wav",
+    "samples/cfr-dirt/bd/45%20control%20freak%20studio%20-%20chunk%20kick%2027%20triple%20fukt.wav",
+    "samples/cfr-dirt/bd/46%20control%20freak%20studio%20-%20chunk%20kick%2027%20short%20triple%20fukt.wav",
+    "samples/cfr-dirt/bd/47%20control%20freak%20studio%20-%20bad%20mic%20kick%2030%20quik%20eq.wav"
+  ],
+  "cfr_hh": [
+    "samples/cfr-dirt/hh/56%20control%20freak%20studio%20-%20bad%20mic%20closed%20hat%20raw.wav",
+    "samples/cfr-dirt/hh/57%20control%20freak%20studio%20-%20bad%20mic%20closed%20hat%20eq.wav",
+    "samples/cfr-dirt/hh/58%20control%20freak%20studio%20-%20bad%20mic%20closed%20hat%20distorted.wav",
+    "samples/cfr-dirt/hh/59%20control%20freak%20studio%20-%20bad%20mic%20closed%20hat%20fukt.wav"
+  ],
+  "cfr_loops112": [
+    "samples/cfr-dirt/loops112/01%20control%20freak%20studio%20-%20drum%20loop%20112%20bpm%2001.wav",
+    "samples/cfr-dirt/loops112/02%20control%20freak%20studio%20-%20drum%20loop%20112%20bpm%2001a.wav",
+    "samples/cfr-dirt/loops112/03%20control%20freak%20studio%20-%20drum%20loop%20112%20bpm%2002.wav",
+    "samples/cfr-dirt/loops112/04%20control%20freak%20studio%20-%20drum%20loop%20112%20bpm%2003.wav",
+    "samples/cfr-dirt/loops112/05%20control%20freak%20studio%20-%20drum%20loop%20112%20bpm%2001%20distorted.wav",
+    "samples/cfr-dirt/loops112/06%20control%20freak%20studio%20-%20drum%20loop%20112%20bpm%2001a%20distorted.wav",
+    "samples/cfr-dirt/loops112/07%20control%20freak%20studio%20-%20drum%20loop%20112%20bpm%2002%20distorted.wav",
+    "samples/cfr-dirt/loops112/08%20control%20freak%20studio%20-%20drum%20loop%20112%20bpm%2003%20distorted.wav",
+    "samples/cfr-dirt/loops112/09%20control%20freak%20studio%20-%20drum%20loop%20112%20bpm%2001%20fukt.wav",
+    "samples/cfr-dirt/loops112/10%20control%20freak%20studio%20-%20drum%20loop%20112%20bpm%2001a%20fukt.wav",
+    "samples/cfr-dirt/loops112/11%20control%20freak%20studio%20-%20drum%20loop%20112%20bpm%2002%20fukt.wav",
+    "samples/cfr-dirt/loops112/12%20control%20freak%20studio%20-%20drum%20loop%20112%20bpm%2003%20fukt.wav",
+    "samples/cfr-dirt/loops112/13%20control%20freak%20studio%20-%20drum%20loop%20112%20bpm%20alt.wav",
+    "samples/cfr-dirt/loops112/14%20control%20freak%20studio%20-%20drum%20loop%20112%20alt%20fukt.wav",
+    "samples/cfr-dirt/loops112/15%20control%20freak%20studio%20-%20drum%20loop%20112%20alt%20glitched.wav"
+  ],
+  "cfr_loops122": [
+    "samples/cfr-dirt/loops122/16%20control%20freak%20studio%20-%20drum%20loop%20122%20bpm%2001.wav",
+    "samples/cfr-dirt/loops122/17%20control%20freak%20studio%20-%20drum%20loop%20122%20bpm%2002.wav",
+    "samples/cfr-dirt/loops122/18%20control%20freak%20studio%20-%20drum%20loop%20122%20bpm%2003.wav",
+    "samples/cfr-dirt/loops122/19%20control%20freak%20studio%20-%20drum%20loop%20122%20bpm%2004.wav",
+    "samples/cfr-dirt/loops122/20%20control%20freak%20studio%20-%20drum%20loop%20122%20bpm%2005.wav",
+    "samples/cfr-dirt/loops122/21%20control%20freak%20studio%20-%20drum%20loop%20122%20bpm%2006.wav"
+  ],
+  "cfr_loops132": [
+    "samples/cfr-dirt/loops132/22%20control%20freak%20studio%20-%20chunk%20beat%20132%20bpm%20just%20kick.wav",
+    "samples/cfr-dirt/loops132/23%20control%20freak%20studio%20-%20chunk%20beat%20132%20bpm%2001.wav",
+    "samples/cfr-dirt/loops132/24%20control%20freak%20studio%20-%20chunk%20beat%20132bpm%2002.wav",
+    "samples/cfr-dirt/loops132/25%20control%20freak%20studio%20-%20chunk%20beat%20132%20bpm%2003.wav",
+    "samples/cfr-dirt/loops132/26%20control%20freak%20studio%20-%20chunk%20beat%20132%20bpm%2001%20eq.wav",
+    "samples/cfr-dirt/loops132/27%20control%20freak%20studio%20-%20chunk%20beat%20132%20bpm%2002%20eq.wav",
+    "samples/cfr-dirt/loops132/28%20control%20freak%20studio%20-%20chunk%20loop%20132%20bpm%2003%20fukt%20mostly%20hat.wav",
+    "samples/cfr-dirt/loops132/29%20control%20freak%20studio%20-%20loop%20drill%20kick%20132%20bpm%2001.wav",
+    "samples/cfr-dirt/loops132/30%20control%20freak%20studio%20-%20loop%20drill%20kick%20132%20bpm%2001%20eq.wav",
+    "samples/cfr-dirt/loops132/31%20control%20freak%20studio%20-%20loop%20drill%20kick%20132%20bpm%2001%20eq%20reverse.wav",
+    "samples/cfr-dirt/loops132/32%20control%20freak%20studio%20-%20loop%20drill%20kick%20132%20bpm%2001%20distorted.wav",
+    "samples/cfr-dirt/loops132/33%20control%20freak%20studio%20-%20loop%20drill%20kick%20132%20bpm%2001%20phase.wav"
+  ],
+  "cfr_loops142": [
+    "samples/cfr-dirt/loops142/34%20control%20freak%20studio%20-%20drum%20loop%20142%20bpm%2001.wav",
+    "samples/cfr-dirt/loops142/35%20control%20freak%20studio%20-%20drum%20loop%20142%20bpm%2001a.wav",
+    "samples/cfr-dirt/loops142/36%20control%20freak%20studio%20-%20drum%20loop%20142%20bpm%2002.wav",
+    "samples/cfr-dirt/loops142/37%20control%20freak%20studio%20-%20drum%20loop%20142%20bpm%2003.wav",
+    "samples/cfr-dirt/loops142/38%20control%20freak%20studio%20-%20drum%20loop%20142%20bpm%2003%20distorted%20hollow%20left.wav",
+    "samples/cfr-dirt/loops142/39%20control%20freak%20studio%20-%20drum%20loop%20142%20bpm%2003%20distorted%20hollow%20right.wav",
+    "samples/cfr-dirt/loops142/40%20control%20freak%20studio%20-%20drum%20loop%20142%20bpm%2003%20distorted%20hollow%20reverse.wav"
+  ],
+  "cfr_oh": [
+    "samples/cfr-dirt/oh/60%20control%20freak%20studio%20-%20bad%20mic%20open%20hat%20raw.wav",
+    "samples/cfr-dirt/oh/61%20control%20freak%20studio%20-%20bad%20mic%20open%20hat%20eq.wav",
+    "samples/cfr-dirt/oh/62%20control%20freak%20studio%20-%20bad%20mic%20open%20hat%20distorted.wav",
+    "samples/cfr-dirt/oh/63%20control%20freak%20studio%20-%20bad%20mic%20open%20hat%20fukt.wav",
+    "samples/cfr-dirt/oh/64%20control%20freak%20studio%20-%20bad%20mic%20open%20hat%20fukt%20glitch%20tsss.wav",
+    "samples/cfr-dirt/oh/65%20control%20freak%20studio%20-%20bad%20mic%20open%20hat%202%20raw.wav",
+    "samples/cfr-dirt/oh/66%20control%20freak%20studio%20-%20bad%20mic%20open%20hat%202%20eq.wav",
+    "samples/cfr-dirt/oh/67%20control%20freak%20studio%20-%20bad%20mic%20open%20hat%202%20distorted.wav",
+    "samples/cfr-dirt/oh/68%20control%20freak%20studio%20-%20bad%20mic%20open%20hat%202%20fukt.wav",
+    "samples/cfr-dirt/oh/69%20control%20freak%20studio%20-%20bad%20mic%20open%20hat%202%20fukt%20with%20less%20tail.wav"
+  ],
+  "cfr_sd": [
+    "samples/cfr-dirt/sd/48%20control%20freak%20studio%20-%20bad%20mic%20chunky%20snare%20distorted%20fx.wav",
+    "samples/cfr-dirt/sd/49%20control%20freak%20studio%20-%20bad%20mic%20chunky%20snare%20fukt%20eq.wav",
+    "samples/cfr-dirt/sd/50%20control%20freak%20studio%20-%20bad%20mic%20chunky%20snare%20fukt%20fx.wav",
+    "samples/cfr-dirt/sd/51%20control%20freak%20studio%20-%20bad%20mic%20little%20snare%2029%20raw.wav",
+    "samples/cfr-dirt/sd/52%20control%20freak%20studio%20-%20bad%20mic%20little%20snare%2029%20light%20distortion.wav",
+    "samples/cfr-dirt/sd/53%20control%20freak%20studio%20-%20bad%20mic%20little%20snare%2029%20eq.wav"
+  ]
+}
